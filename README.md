@@ -24,3 +24,4 @@ Most textures have been made by the respective patch authors (see below).
 - Iron Chests: https://bdcraft.net/community/viewtopic.php?t=357
 - Gravestone Mod: https://bdcraft.net/community/viewtopic.php?t=8746 (Edited, backported textures)
 - CustomNPCs: https://bdcraft.net/community/viewtopic.php?t=2221
+- Open Modular Turrets: https://bdcraft.net/community/releases-for-mods-f9/openmodularturrets-t4882.html
